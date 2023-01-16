@@ -21,4 +21,4 @@ ${PROJECT_SOURCE_DIR}/mbedtls/build/library/libmbedx509.a
 
 
 
-add_subdirectory(apps/server)
+add_subdirectory(ref)
