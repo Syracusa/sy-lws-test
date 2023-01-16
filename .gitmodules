@@ -4,3 +4,4 @@
 [submodule "libwebsockets"]
 	path = libwebsockets
 	url = https://github.com/Syracusa/libwebsockets
+	branch = main
