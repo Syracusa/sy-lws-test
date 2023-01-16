@@ -1,0 +1,6 @@
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/Syracusa/mbedtls
+[submodule "libwebsockets"]
+	path = libwebsockets
+	url = https://github.com/Syracusa/libwebsockets
